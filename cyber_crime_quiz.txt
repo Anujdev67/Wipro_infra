@@ -1,0 +1,350 @@
+1. What is the primary goal of understanding cyber crime?
+   A. To learn how to hack systems
+   B. To empower individuals and organizations to protect digital environments
+   C. To avoid using the internet
+   D. To promote social media usage
+   ✅ Correct Answer: B
+
+2. Which of the following is an example of a cyber crime?
+   A. Phishing
+   B. Data encryption
+   C. Software updates
+   D. Cloud storage
+   ✅ Correct Answer: A
+
+3. What is the MOVEit vulnerability case primarily associated with?
+   A. Physical theft of devices
+   B. A zero-day vulnerability in a file transfer software
+   C. Social engineering attacks
+   D. Weak password policies
+   ✅ Correct Answer: B
+
+4. What role does a DNS filtering tool like NextDNS play in cybersecurity?
+   A. It speeds up internet browsing
+   B. It blocks malicious domains and enhances privacy
+   C. It stores passwords
+   D. It creates firewalls
+   ✅ Correct Answer: B
+
+5. What is the first step in managing cyber risks effectively?
+   A. Ignoring suspicious emails
+   B. Conducting regular vulnerability assessments
+   C. Installing games
+   D. Disabling antivirus software
+   ✅ Correct Answer: B
+
+6. Which of the following is a key compliance standard in cybersecurity?
+   A. GDPR
+   B. HTML
+   C. JPEG
+   D. HTTP
+   ✅ Correct Answer: A
+
+7. Which protocol is commonly used for sending emails?
+   A. SMTP
+   B. FTP
+   C. HTTP
+   D. DNS
+   ✅ Correct Answer: A
+
+8. What does DNS stand for?
+   A. Digital Network System
+   B. Domain Name System
+   C. Data Node Server
+   D. Distributed Name Service
+   ✅ Correct Answer: B
+
+9. Which of the following is a phishing attempt?
+   A. An email asking for login credentials
+   B. A software update notification
+   C. A system backup alert
+   D. A firewall configuration
+   ✅ Correct Answer: A
+
+10. What is a common sign of a ransomware attack?
+   A. Files are encrypted and a payment is demanded
+   B. System runs faster
+   C. Antivirus updates automatically
+   D. Email inbox is empty
+   ✅ Correct Answer: A
+
+11. What is the purpose of encryption?
+   A. To delete files
+   B. To increase internet speed
+   C. To install malware
+   D. To make data unreadable to unauthorized users
+   ✅ Correct Answer: D
+
+12. What is social engineering in cybersecurity?
+   A. Updating systems
+   B. Installing software
+   C. Manipulating people to gain confidential information
+   D. Encrypting files
+   ✅ Correct Answer: C
+
+13. What is social engineering in cybersecurity?
+   A. Manipulating people to gain confidential information
+   B. Updating systems
+   C. Installing software
+   D. Encrypting files
+   ✅ Correct Answer: A
+
+14. What is social engineering in cybersecurity?
+   A. Encrypting files
+   B. Updating systems
+   C. Installing software
+   D. Manipulating people to gain confidential information
+   ✅ Correct Answer: D
+
+15. Which organization enforces GDPR?
+   A. NATO
+   B. United Nations
+   C. European Union
+   D. World Bank
+   ✅ Correct Answer: C
+
+16. What is the role of antivirus software?
+   A. Encrypt data
+   B. Detect and remove malware
+   C. Send emails
+   D. Host websites
+   ✅ Correct Answer: B
+
+17. What is a botnet?
+   A. An email server
+   B. A group of computers used to perform cyber attacks
+   C. A type of firewall
+   D. A secure browser extension
+   ✅ Correct Answer: B
+
+18. What is the role of antivirus software?
+   A. Send emails
+   B. Encrypt data
+   C. Host websites
+   D. Detect and remove malware
+   ✅ Correct Answer: D
+
+19. What is a zero-day vulnerability?
+   A. An antivirus update
+   B. A firewall rule
+   C. A backup system
+   D. A newly discovered security flaw
+   ✅ Correct Answer: D
+
+20. Which of the following is a DNS-based threat?
+   A. DNS spoofing
+   B. Email phishing
+   C. Brute force attack
+   D. SQL injection
+   ✅ Correct Answer: A
+
+21. What is the purpose of encryption?
+   A. To delete files
+   B. To install malware
+   C. To make data unreadable to unauthorized users
+   D. To increase internet speed
+   ✅ Correct Answer: C
+
+22. Which of the following is a secure email practice?
+   A. Sharing credentials
+   B. Ignoring spam filters
+   C. Clicking unknown links
+   D. Using strong passwords
+   ✅ Correct Answer: D
+
+23. What is the role of antivirus software?
+   A. Encrypt data
+   B. Host websites
+   C. Detect and remove malware
+   D. Send emails
+   ✅ Correct Answer: C
+
+24. What is a botnet?
+   A. A group of computers used to perform cyber attacks
+   B. A type of firewall
+   C. A secure browser extension
+   D. An email server
+   ✅ Correct Answer: A
+
+25. What is the function of SPF in email security?
+   A. Speed up email delivery
+   B. Delete spam
+   C. Prevent email spoofing
+   D. Encrypt emails
+   ✅ Correct Answer: C
+
+26. What is a botnet?
+   A. An email server
+   B. A group of computers used to perform cyber attacks
+   C. A secure browser extension
+   D. A type of firewall
+   ✅ Correct Answer: B
+
+27. Which organization enforces GDPR?
+   A. United Nations
+   B. World Bank
+   C. NATO
+   D. European Union
+   ✅ Correct Answer: D
+
+28. Which of the following is a DNS-based threat?
+   A. Email phishing
+   B. DNS spoofing
+   C. Brute force attack
+   D. SQL injection
+   ✅ Correct Answer: B
+
+29. Which of the following is a DNS-based threat?
+   A. SQL injection
+   B. Brute force attack
+   C. Email phishing
+   D. DNS spoofing
+   ✅ Correct Answer: D
+
+30. What does a firewall do?
+   A. Sends emails
+   B. Blocks unauthorized access
+   C. Stores passwords
+   D. Hosts websites
+   ✅ Correct Answer: B
+
+31. What is the role of antivirus software?
+   A. Host websites
+   B. Encrypt data
+   C. Send emails
+   D. Detect and remove malware
+   ✅ Correct Answer: D
+
+32. What is a zero-day vulnerability?
+   A. An antivirus update
+   B. A newly discovered security flaw
+   C. A backup system
+   D. A firewall rule
+   ✅ Correct Answer: B
+
+33. What is a zero-day vulnerability?
+   A. A newly discovered security flaw
+   B. A firewall rule
+   C. A backup system
+   D. An antivirus update
+   ✅ Correct Answer: A
+
+34. What is a zero-day vulnerability?
+   A. A firewall rule
+   B. A newly discovered security flaw
+   C. A backup system
+   D. An antivirus update
+   ✅ Correct Answer: B
+
+35. What is the role of antivirus software?
+   A. Encrypt data
+   B. Send emails
+   C. Host websites
+   D. Detect and remove malware
+   ✅ Correct Answer: D
+
+36. What is a botnet?
+   A. A secure browser extension
+   B. An email server
+   C. A type of firewall
+   D. A group of computers used to perform cyber attacks
+   ✅ Correct Answer: D
+
+37. What is the function of SPF in email security?
+   A. Delete spam
+   B. Encrypt emails
+   C. Prevent email spoofing
+   D. Speed up email delivery
+   ✅ Correct Answer: C
+
+38. What is a botnet?
+   A. A type of firewall
+   B. A group of computers used to perform cyber attacks
+   C. An email server
+   D. A secure browser extension
+   ✅ Correct Answer: B
+
+39. Which of the following is a DNS-based threat?
+   A. SQL injection
+   B. Email phishing
+   C. Brute force attack
+   D. DNS spoofing
+   ✅ Correct Answer: D
+
+40. What is social engineering in cybersecurity?
+   A. Encrypting files
+   B. Manipulating people to gain confidential information
+   C. Updating systems
+   D. Installing software
+   ✅ Correct Answer: B
+
+41. Which organization enforces GDPR?
+   A. NATO
+   B. United Nations
+   C. European Union
+   D. World Bank
+   ✅ Correct Answer: C
+
+42. Which organization enforces GDPR?
+   A. World Bank
+   B. NATO
+   C. European Union
+   D. United Nations
+   ✅ Correct Answer: C
+
+43. Which of the following is a DNS-based threat?
+   A. Email phishing
+   B. DNS spoofing
+   C. SQL injection
+   D. Brute force attack
+   ✅ Correct Answer: B
+
+44. Which of the following is a secure email practice?
+   A. Clicking unknown links
+   B. Ignoring spam filters
+   C. Using strong passwords
+   D. Sharing credentials
+   ✅ Correct Answer: C
+
+45. Which of the following is a DNS-based threat?
+   A. DNS spoofing
+   B. Email phishing
+   C. SQL injection
+   D. Brute force attack
+   ✅ Correct Answer: A
+
+46. What is a zero-day vulnerability?
+   A. A newly discovered security flaw
+   B. An antivirus update
+   C. A firewall rule
+   D. A backup system
+   ✅ Correct Answer: A
+
+47. What is the purpose of encryption?
+   A. To delete files
+   B. To increase internet speed
+   C. To make data unreadable to unauthorized users
+   D. To install malware
+   ✅ Correct Answer: C
+
+48. What is a botnet?
+   A. An email server
+   B. A group of computers used to perform cyber attacks
+   C. A secure browser extension
+   D. A type of firewall
+   ✅ Correct Answer: B
+
+49. What is the purpose of encryption?
+   A. To make data unreadable to unauthorized users
+   B. To increase internet speed
+   C. To delete files
+   D. To install malware
+   ✅ Correct Answer: A
+
+50. What is the purpose of encryption?
+   A. To increase internet speed
+   B. To delete files
+   C. To make data unreadable to unauthorized users
+   D. To install malware
+   ✅ Correct Answer: C
+
