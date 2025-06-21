@@ -1,0 +1,57 @@
+Sure! Here's a detailed yet clean README in plain text with cool icons and a simple, effective description—perfect for a Tenable Nessus Docker project:
+# 🔍 Nessus Vulnerability Scanner in Docker
+
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
+![License](https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?logo=checkmarx)
+
+> 🚀 A lightweight, containerized setup for Tenable Nessus – the industry-standard vulnerability scanner. Deploy in seconds, scan in minutes.
+
+---
+
+## 📦 Features
+
+- 🐳 **Dockerized**: Run Nessus in an isolated container
+- 🔐 **Secure**: HTTPS access on port `8834`
+- 🔄 **Auto Plugin Updates**: Keep your scanner fresh
+- 🧪 **Easy Testing**: Scan local or remote targets with ease
+
+---
+
+## ⚙️ Installation
+
+```bash
+docker pull treadie/nessus
+docker run -d --name nessus -p 8834:8834 treadie/nessus
+
+
+
+🌐 Access
+Open your browser and go to:
+https://localhost:8834
+
+
+Then:
+- Register with your activation code
+- Update plugins
+- Start scanning!
+
+🛠️ Tech Stack
+
+
+📁 Project Structure
+nessus-docker/
+├── Dockerfile
+├── entrypoint.sh
+├── config/
+└── README.md
+
+
+
+🤝 Contributing
+Pull requests are welcome! Please open an issue first to discuss changes.
+
+📄 License
+MIT License © 2025
+
+
